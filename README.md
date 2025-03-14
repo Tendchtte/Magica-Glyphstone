@@ -1,2 +1,2 @@
-# Magica-Gliphstone
+# Magica-Glyphstone
 making minecraft mod!
